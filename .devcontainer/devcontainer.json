@@ -2,7 +2,7 @@
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
-      "CONTAINER_USER": "lburgazzoli",
+      "CONTAINER_USER": "vscode",
       "CONTAINER_USER_UID": "1000",
       "CONTAINER_USER_GID": "1000",
     }
